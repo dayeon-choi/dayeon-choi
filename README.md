@@ -10,5 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2019w18@gmail.com)](mailto:s2019w18@gmail.com) <br/>
 	
 [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon-choi) <br/>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon-choi)](https://velog.io/@dayeon-choi)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon-choi)](https://velog.io/@dayeon-choi) <br/>
+[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon0_0dev) <br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon0_0dev)](https://velog.io/@dayeon0_0dev)
 <br/>
