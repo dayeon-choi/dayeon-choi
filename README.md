@@ -13,4 +13,4 @@
 [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon0_0dev) <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon0_0dev)](https://velog.io/@dayeon0_0dev) <br/>
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://dev-dayeon.tistory.com/) <br/>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-dayeon)](https://github.com/loosie/github-readme-tistory-card) <br/>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-dayeon)](https://github-readme-tistory-card.vercel.app/api?name=dev-dayeon) <br/>
