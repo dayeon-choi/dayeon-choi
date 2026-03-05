@@ -4,13 +4,13 @@
 
 ---
 
-#### POST
+### POST
 
 - [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme=dark)](https://dev-dayeon.tistory.com/)
 
 
-- [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon0_0dev) 
+- [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon0_0dev) <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon0_0dev)](https://velog.io/@dayeon0_0dev) 
 	
-- [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon-choi) 
+- [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@dayeon-choi) <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dayeon-choi)](https://velog.io/@dayeon-choi) 
